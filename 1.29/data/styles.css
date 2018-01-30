@@ -53,6 +53,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .image {
 }
 ._默认样式 {
@@ -65,6 +69,8 @@
   text-align:left;
 }
 .box_2 {
+}
+.box_3 {
 }
 ._连接线 {
 }
